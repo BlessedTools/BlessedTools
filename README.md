@@ -25,11 +25,9 @@ game plugins / automation / reverse engineering
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,js,html&theme=dark"/> </p>
 🎮 HUD / PROJECT STYLE
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=BlessedTools&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlessedTools&theme=tokyonight&hide_border=true&background=0d1117"/> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlessedTools&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlessedTools&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 🐍 NEON ACTIVITY
 <p align="center"> <img src="https://raw.githubusercontent.com/BlessedTools/BlessedTools/output/github-contribution-grid-snake-dark.svg"/> </p>
