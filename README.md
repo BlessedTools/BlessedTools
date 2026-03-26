@@ -1,11 +1,10 @@
-<!-- ───────────── BANNER ───────────── -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BlessedTools/BlessedTools/main/banner.gif"/>
 </p>
 
 <h1 align="center">⚡ Blessed ⚡</h1>
 
-<!-- ───────────── TYPING ───────────── -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=System+initializing...;Loading+modules...;Game+tools+developer;Reverse+engineering+mode+ON;Welcome+to+my+profile"/>
 </p>
@@ -24,14 +23,12 @@ C# / Python / JavaScript / HTML
 > focus
 game plugins / automation / reverse engineering
 
-> status
-ONLINE
+> status : ONLINE
 🧠 ОПИСАНИЕ
-> Разрабатываю инструменты и плагины
-> Работаю с игровыми системами и UI overlay
+> Разрабатываю инструменты, плагины, боты
+> Работаю с сайтами, скриптами, играми
 > Оптимизация, автоматизация, нестандартные решения
-> Код как оружие — быстро, точно, эффективно
-⚙️ СТЕК
+> ⚙️ СТЕК
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,js,html&theme=dark"/> </p>
 🎮 HUD / PROJECT STYLE
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BlessedTools&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlessedTools&theme=tokyonight&hide_border=true&background=0d1117"/> </p>
@@ -40,4 +37,4 @@ ONLINE
 🌌 CYBER HUD PANEL
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlessedTools&theme=tokyonight"/> </p>
 💀 FINAL LINE
-<p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/> </p> <p align="center"> ⚡ Hack the system. Build your own reality. </p> ``
+<p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/> </p> <p align="center"> ⚡ Hack the system. Build your own reality. </p>
