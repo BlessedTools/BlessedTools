@@ -30,7 +30,5 @@ game plugins / automation / reverse engineering
 </p>
 🐍 NEON ACTIVITY
 <p align="center"> <img src="https://raw.githubusercontent.com/BlessedTools/BlessedTools/output/github-contribution-grid-snake-dark.svg"/> </p>
-🌌 CYBER HUD PANEL
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlessedTools&theme=tokyonight"/> </p>
 💀 FINAL LINE
 <p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/> </p> <p align="center"> ⚡ Hack the system. Build your own reality. </p>
