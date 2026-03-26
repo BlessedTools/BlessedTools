@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BlessedTools/BlessedTools/blob/main/banner.gif"/>
+  <img src="https://github.com/BlessedTools/BlessedTools/blob/main/banner.png"/>
 </p>
 
 <h1 align="center">⚡ Blessed ⚡</h1>
