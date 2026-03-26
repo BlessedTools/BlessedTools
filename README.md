@@ -24,7 +24,7 @@ C# / Python / JavaScript / HTML
 game plugins / automation / reverse engineering
 
 > status : ONLINE
-🧠 ОПИСАНИЕ
+> 🧠 ОПИСАНИЕ
 > Разрабатываю инструменты, плагины, боты
 > Работаю с сайтами, скриптами, играми
 > Оптимизация, автоматизация, нестандартные решения
