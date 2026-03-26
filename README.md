@@ -23,12 +23,6 @@ C# / Python / JavaScript / HTML
 > focus
 game plugins / automation / reverse engineering
 
-> status : ONLINE
-> 🧠 ОПИСАНИЕ
-> Разрабатываю инструменты, плагины, боты
-> Работаю с сайтами, скриптами, играми
-> Оптимизация, автоматизация, нестандартные решения
-> ⚙️ СТЕК
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,js,html&theme=dark"/> </p>
 🎮 HUD / PROJECT STYLE
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BlessedTools&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlessedTools&theme=tokyonight&hide_border=true&background=0d1117"/> </p>
