@@ -13,7 +13,6 @@
 
 ## 🖥 TERMINAL
 
-bash
 > whoami
 Blessed
 
